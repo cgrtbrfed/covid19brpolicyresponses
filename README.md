@@ -1,5 +1,4 @@
-# covid19
-Repositório de dados do grupo CGRT-BRFED USP
+# Repositório de dados do grupo CGRT-BRFED USP
 
 O banco de dados COVID-19 Government Response Tracker for the Brazilian Federation(CGRT-BRFED) tem o objetivo de acompanhar, em tempo real, as medidas adotadaspelo governo nacional e por cada estado da federação no enfrentamento da pandemia do novo coronavírus. Além disso, conta com a codificação de medidas de nove capitais- São Paulo, Rio de Janeiro, Belo Horizonte, Manaus, Recife, Fortaleza, Salvador, PortoAlegre e Goiânia.
 
