@@ -12,7 +12,5 @@ Please, when using and/or citing the database, adopt the following citation: Lor
 ## Acknowledgments 
 
 We are grateful for the fundamental contribution given by comments of Anna Petherick, Beatriz Kira, Rafael Goldszmidt, José Eduardo Krieger, Glauco Arbix, Guy D. Whitten, Kelly Senters, Diogo Ferrari, Jonathan Phillips, Guilherme Russo,  Elia Cia and for the comments of the members of the Quantitative Methods Research Group in the Department of Political Science at the University of Sao Paulo. 
-Lorena Barberia thanks  the Fundação  de  Amparo  a  Pesquisa  do  Estado  de  São  Paulo  (FAPESP) by the support (2018/20853-1 and 2013/15658-1). Maria Letícia Claro is supported  a CNPq's grant  (132580/2019-5). Luiz Guilherme Cantarelli is supported by a CAPES' grant  (88887.355183/2019-00). 
-Natália Moreira thanks  the Fundação de Amparo a Pesquisa do Estado de São Paulo (FAPESP) by the support (2016/13199-8)
-All mistakes are our own responsibility.
+Lorena Barberia thanks  the Fundação  de  Amparo  a  Pesquisa  do  Estado  de  São  Paulo  (FAPESP) by the support (2018/20853-1 and 2013/15658-1). Maria Letícia Claro is supported  a CNPq's grant  (132580/2019-5). Luiz Guilherme Cantarelli is supported by a CAPES' grant  (88887.355183/2019-00). Natália Moreira thanks  the Fundação de Amparo a Pesquisa do Estado de São Paulo (FAPESP) by the support (2016/13199-8). All mistakes are our own responsibility.
 
