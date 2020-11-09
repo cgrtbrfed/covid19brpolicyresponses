@@ -1,17 +1,18 @@
-# Repositório de dados do grupo CGRT-BRFED USP
+# CGRT-BRFED USP Data Repository
 
-O banco de dados COVID-19 Government Response Tracker for the Brazilian Federation(CGRT-BRFED) tem o objetivo de acompanhar, em tempo real, as medidas adotadas pelo governo nacional e por cada estado da federação no enfrentamento da pandemia do novo coronavírus. Além disso, conta com a codificação de medidas de nove capitais- São Paulo, Rio de Janeiro, Belo Horizonte, Manaus, Recife, Fortaleza, Salvador, Porto Alegre e Goiânia.
+The COVID-19 Government Response Tracker for the Brazilian Federation(CGRT-BRFED) database has the general goal of following, the measures adopted in real-time by the Federal Government, and by each Brazilan Federation state to confront the pandemic of coronavirus. Moreover, the database counts with the codification of nine capitals - São Paulo, Rio de Janeiro, Belo Horizonte, Manaus, Recife, Fortaleza, Salvador, Porto Alegre, and Goiânia.
 
-A  metodologia  adotada  é  inspirada  no  banco  de  dados  desenvolvido  no Oxford COVID-19 Government Response Tracker (OxCGRT) observatório da Blavatnik School of Government que tem como objetivo acompanhar as medidas de prevenção e reação à propagação do vírus adotadas pelos governos nacionais.
+The methodology adopted is inspired in the database developed by Oxford COVID-19 Government Response Tracker (OxCGRT) at Blavatnik School of Government observatory, in which the objective is to track the prevention measures and the reactions from national governments to the spread of the virus.
+Primary data are only extracted from official sources (only states and capitals official press are considered), to guarantee information precision. The objective is to capture the measures that were enacted or established by state or subnational government ministerial orders, or laws that were approved by the respective legislative chamber in each federation unit.  Similarly, the capitals’ dataset is based on the same criteria. 
 
-Os dados primários são extraídos exclusivamente de fontes oficiais (fundamentalmente, das imprensas oficiais dos estados e das capitais analisadas), de maneira a assegurar a veracidade das informações. O objetivo é captar as medidas que foram decretadas ou establecidas por portaria pelo governo de estado em cada governo sub-nacional,ou que foram leis aprovadas pela câmara legislativa respectiva em cada unidade da federação.
+## Citation
 
-## Citação
+Please, when using and/or citing the database, adopt the following citation: Lorena G. Barberia, Natália de Paula Moreira, Anna Paula Ferrari Matos, Luiz Cantarelli, Maria Leticia Claro, Isabel Seelaender Costa Rosa, Pedro de Santana Schmalz, Marcela Zamudio, Paulo Agabo & Dara Aparecida (2020).  COVID-19 Government Response Tracker for the Brazilian Federation (CGRT-BRFED). Sao Paulo, USP. Available in: <https://github.com/cgrtbrfed/covid19policytracker>.
 
-Por gentileza, ao utilizar e/ou referenciar o banco de dados, adotar a seguinte citação:  Lorena G. Barberia, Natália de Paula Moreira, Anna Paula Ferrari Matos, Luiz Cantarelli, Maria Leticia Claro, Isabel Seelaender Costa Rosa, Pedro de Santana Schmalz, Marcela Zamudio, Paulo Agabo & Dara Aparecida (2020).  COVID-19 Government Response Tracker for the Brazilian Federation (CGRT-BRFED). Sao Paulo, USP. Disponível em: <https://github.com/cgrtbrfed/covid19policytracker>.
+## Acknowledgments 
 
-## Agradecimentos
+We are grateful for the fundamental contribution given by comments of Anna Petherick, Beatriz Kira, Rafael Goldszmidt, José Eduardo Krieger, Glauco Arbix, Guy D. Whitten, Kelly Senters, Diogo Ferrari, Jonathan Phillips, Guilherme Russo,  Elia Cia and for the comments of the members of the Quantitative Methods Research Group in the Department of Political Science at the University of Sao Paulo. 
+Lorena Barberia thanks  the Fundação  de  Amparo  a  Pesquisa  do  Estado  de  São  Paulo  (FAPESP) by the support (2018/20853-1 and 2013/15658-1). Maria Letícia Claro is supported  a CNPq's grant  (132580/2019-5). Luiz Guilherme Cantarelli is supported by a CAPES' grant  (88887.355183/2019-00). 
+Natália Moreira thanks  the Fundação de Amparo a Pesquisa do Estado de São Paulo (FAPESP) by the support (2016/13199-8)
+All mistakes are our own responsibility.
 
-Agradecemos imensamente a contribuição fundamental proporcionada pelos comentários de Anna Petherick, Beatriz Kira, Rafael Goldszmidt, José Eduardo Krieger,Glauco Arbix, Guy D. Whitten, Kelly Senters, Diogo Ferrari, Jonathan Phillips, Guilherme Russo,  Elia Cia e dos membros do Grupo de Pesquisa em Métodos Quantitativos do Departamento de Ciência Política da Universidade de São Paulo.  
-
-Lorena Barberia  agradece  à  Fundação  de  Amparo  a  Pesquisa  do  Estado  de  São  Paulo  (FAPESP) pelo financiamento de apoio à pesquisa (2018/20853-1 and 2013/15658-1). Maria Letícia Claro é apoiada como bolsista pelo CNPq (132580/2019-5). Luiz Guilherme Cantarelli é apoiado como bolsista pela CAPES (88887.355183/2019-00).  Natália Moreira agradece à Fundação de Amparo a Pesquisa do Estado de São Paulo (FAPESP)pelo financiamento de apoio à pesquisa (2016/13199-8).  Todos os erros são de nossa responsabilidade.
