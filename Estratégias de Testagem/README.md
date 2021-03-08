@@ -20,3 +20,5 @@ iii. o tempo entre a coleta e a divulgação do resultado do teste não deve ser
 iv. os testes de laboratório são parte integrante da estratégia de controle da pandemia. 
 
 Para este último indicador, como a OMS enfatiza os testes laboratoriais, interpretamos isso como uma implicação de que as regiões deveriam ter pelo menos um laboratório local para diagnóstico. O CDC é a fonte para os indicadores 5, uma vez que "o teste que é repetido em diferentes pontos no tempo pode ser mais provável de detectar a infecção entre contatos próximos de um caso COVID-19 do que o teste feito em um único ponto no tempo" e 6, visto que o sucesso do rastreamento de contatos pode ser avaliado considerando o número de contatos testados para SARS-CoV-2 (e identificados) em relação ao número de contatos entrevistados.
+
+O detalhamento dos bancos de dados, das variáveis e das fontes está disponível no Codebook do COVID-19 Government ResponseTracker for the Brazilian Federation(CGRT-BRFED), que reúne as informações referentes a todos os projetos de monitoramento de políticas públicas do grupo.
