@@ -1,4 +1,4 @@
-##Análise dos Planos de Ensino Remoto
+## Análise dos Planos de Ensino Remoto
 
 Com o intuito de quantificar as políticas subnacionais de educação remota implantada pelos governos durante a pandemia, construiu-se um indicador de políticas de educação à distância (Remote Education Index, REP, em inglês). Esse indicador visa permitir avaliar a qualidade dos planos que foram postos em prática tanto pelos governos estaduais quanto os de suas capitais. Observou-se o que foi adotado para os níveis infantil, fundamental, médio e EJA para o ensino público das diversas unidades federativas.
 
