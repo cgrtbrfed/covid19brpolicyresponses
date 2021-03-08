@@ -1,4 +1,4 @@
-**A Intensidade dos Esforços de Testagem de Teste RT-PCR e as Estratégias de Vigilância durante a pandemiade COVID-19**
+## A Intensidade dos Esforços de Testagem de Teste RT-PCR e as Estratégias de Vigilância durante a pandemiade COVID-19
 
 
 O objetivo central desta pesquisa é de avaliar a eficácia dos esforços de controle da pandemia no Brasil no que se refere a política de testagem. Foram identificadas políticas específicas com base nas diretrizes técnicas e conferências com a imprensa realizadas pela OMS (Organização Mundial da Saúde), as orientações do Centro de Controle e Prevenção de Doenças dos Estados Unidos (CDC), além de plataformas referentes à pandemia mantida por instituições de pesquisa. O conjunto destas recomendações foram utilizadas para construir um Índice de Esforço de Intensidade de Testagem de Testes RT-PCR (RT-PCR TIEI). 
