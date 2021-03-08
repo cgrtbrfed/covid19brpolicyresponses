@@ -9,4 +9,4 @@ O COVID-19 Government Response Tracker for the Brazilian Federation (CGRT-BRFED)
 
 ## Citação
 
-Quando usar e/ou citar nosso banco de dados, por favor utilizar a seguinte citação: Lorena G. Barberia, Natália de Paula Moreira, Anna Paula Ferrari Matos, Luiz Cantarelli, Maria Leticia Claro F. Oliveira, Isabel Seelaender Costa Rosa, Pedro de Santana Schmalz, Marcela Zamudio, Paulo Agabo & Dara Aparecida (2020).  COVID-19 Government Response Tracker for the Brazilian Federation (CGRT-BRFED). Sao Paulo, USP. Disponível em: <https://github.com/cgrtbrfed/covid19policytracker>.
+Quando usar e/ou citar nosso banco de dados, por favor utilizar a seguinte citação: Lorena G. Barberia, Natália de Paula Moreira, Anna Paula Ferrari Matos, Luiz Cantarelli, Maria Leticia Claro F. Oliveira, Isabel Seelaender Costa Rosa, Pedro de Santana Schmalz, Marcela Zamudio, Paulo Agabo & Dara Aparecida (2020).  COVID-19 Government Response Tracker for the Brazilian Federation (CGRT-BRFED). Sao Paulo, USP. Disponível em: <https://github.com/cgrtbrfed/covid19brpolicyresponses>.
