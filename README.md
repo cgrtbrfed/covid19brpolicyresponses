@@ -4,8 +4,9 @@ O COVID-19 Government Response Tracker for the Brazilian Federation (CGRT-BRFED)
 
 1. Intervenções não-farmacológicas incluindo fechamento de escolas, fechamento de comércio e indústrias, ordens de permanência domiciliar (stay at home orders), proibições de aglomerações e eventos públicos e privados e uso de máscaras em espaços públicos. Estas políticas foram mapeadas para todas as unidades federativas e para capitais de dez estados brasileiros.
 2. Planos estaduais e municipais que utilizam medidas de risco para guiar as reaberturas e flexibilizações do distanciamento social. 
-3. Políticas de educação remota adotadas pelas secretarias estaduais e municipais de todas as capitais estaduais, além do distrito federal. Foram mapeados os planos de oferecimento de ensino à distância no período entre Março e Outubro de 2020.
-4. A intensidade dos programas de testagem de casos ativos com foco em RT-PCR e testes de antígenos.
+3. Políticas de educação remota adotadas pelas secretarias estaduais e municipais de todas as capitais estaduais, além do distrito federal. Foram mapeados os planos de oferecimento de ensino à distância desde março de 2020 até junho de 2021.
+4. Protocolos de biossegurança estabelecidos secretarias municipais e estaduais de educação para o retorno presencial às aulas em 2021. O período analisado foi o de janeiro até junho de 2021. 
+5. A intensidade dos programas de testagem de casos ativos com foco em RT-PCR e testes de antígenos.
 
 ## Citação
 
