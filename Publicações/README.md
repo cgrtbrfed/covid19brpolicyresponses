@@ -8,3 +8,5 @@
 * de Sousa, T. C. M., de Paula Moreira, N., Krieger, J., Rosa, I. S. C., Zamudio, M., Veras, M. A. S., ... & Barberia, L. (2020). Using RT-PCR Testing to Assess the Effectiveness of Outbreak Control Efforts in Sao Paulo State, the Epicenter of COVID-19 Pandemic in Brazil, according to Socioeconomic Vulnerabilities. medRxiv.
 
 * Barberia, L. G., & Gómez, E. J. (2020). Political and institutional perils of Brazil's COVID-19 crisis. The Lancet, 396(10248), 367-368.
+
+* Barberia Lorena G., Claro Oliveira Maria Leticia, Junqueira Andrea,Paula Moreira Natália de, and Whitten Guy D. 2021. Should I stay or should I go? Embracingcausal heterogeneity in the study of pandemic policy and citizen behavior. Social Science Quarterly1–15. https://doi.org/10.1111/ssqu.13037
