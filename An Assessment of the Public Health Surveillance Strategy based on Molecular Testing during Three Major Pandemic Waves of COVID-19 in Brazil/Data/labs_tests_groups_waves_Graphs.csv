@@ -1,0 +1,595 @@
+﻿UF;Lab;group;Lab category;Waves;n_tests;average
+DF;Ministério da Justiça Departamento Penitenciário Nacional;Group 1 - Public health labs prior to the pandemic;Collaborator;First wave;0;0
+DF;Polícia Federal do Distrito Federal - DF;Group 1 - Public health labs prior to the pandemic;Collaborator;First wave;500;14,3
+DF;COADI/CGLOG/MS;Group 1 - Public health labs prior to the pandemic;Collaborator;First wave;0;0
+CE;Sociedade Beneficente São Camilo;Group 2 - Labs enabled during pandemic;Contractor_lab;First wave;0;0
+RS;Santa Casa de Misericórdia de Pelotas;Group 2 - Labs enabled during pandemic;Contractor_lab;First wave;0;0
+RS;Hospital Beneficência Alto Jacuí;Group 2 - Labs enabled during pandemic;Contractor_lab;First wave;0;0
+SC;Fundação Hospital São Lourenço;Group 2 - Labs enabled during pandemic;Contractor_lab;First wave;0;0
+SP;Hospital de Amor de Barretos - SP;Group 2 - Labs enabled during pandemic;Contractor_lab;First wave;0;0
+SP;SEEGENE;Group 2 - Labs enabled during pandemic;Contractor_lab;First wave;0;0
+SP;Santa Casa de Misericórdia de Taguaí;Group 2 - Labs enabled during pandemic;Contractor_lab;First wave;0;0
+AC;Laboratório Central de Saúde Pública do Acre;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;69724;1992,1
+AL;Laboratório Central de Saúde Pública de Alagoas;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;89284;2551
+AM;Laboratório Central de Saúde Pública do Amazonas;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;125808;3594,5
+AP;Laboratório Central de Saúde Pública do Amapá;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;75516;2157,6
+BA;Laboratório Central de Saúde Pública da Bahia;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;544224;15549,3
+CE;Laboratório Central de Saúde Pública do Ceará;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;178392;5096,9
+DF;Laboratório Central de Saúde Pública do Distrito Federal;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;149968;4284,8
+ES;Laboratório Central de Saúde Pública do Espírito Santo;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;149128;4260,8
+GO;Laboratório Central de Saúde Pública de Goiás;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;133616;3817,6
+MA;Laboratório Central de Saúde Pública do Maranhão;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;215412;6154,6
+MG;Laboratório Fundação Ezequiel Dias;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;162280;4636,6
+MS;Laboratório Central de Saúde Pública do Mato Grosso do Sul;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;190992;5456,9
+MT;Laboratório Central de Saúde Pública do Mato Grosso;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;203608;5817,4
+PA;Laboratório Central de Saúde Pública do Pará;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;115944;3312,7
+PB;Laboratório Central de Saúde Pública da Paraíba;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;103548;2958,5
+PE;Laboratório Central de Saúde Pública de Pernambuco;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;245480;7013,7
+PI;Laboratório Central de Saúde Pública do Piauí;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;114492;3271,2
+PR;Laboratório Central de Saúde Pública do Paraná;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;127352;3638,6
+PR;Laboratório de Fronteira Foz do Iguaçu;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;0;0
+RJ;Laboratório Central de Saúde Pública Noel Nutels;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;466376;13325
+RN;Laboratório Central de Saúde Pública do Rio Grande do Norte;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;133888;3825,4
+RO;Laboratório Central de Saúde Pública de Rondônia;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;118696;3391,3
+RR;Laboratório Central de Saúde Pública de Roraima;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;82264;2350,4
+RS;Laboratório Central de Saúde Pública do Rio Grande do Sul;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;179072;5116,3
+SC;Laboratório Central de Saúde Pública de Santa Catarina;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;204048;5829,9
+SC;Laboratório de Saúde Pública de Joaçaba;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;0;0
+SC;Laboratorio Regional de Chapecó;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;0;0
+SE;Laboratório Central de Saúde Pública de Sergipe;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;149728;4277,9
+SP;Laboratório Central de Saúde Instituto Adolfo Lutz - SP;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;674652;19275,8
+SP;Serviço de Virologia - IAL;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;0;0
+TO;Laboratório Central de Saúde Pública do Tocantins;Group 1 - Public health labs prior to the pandemic;Lacen;First wave;118196;3377
+CE;Ceará (CE) HTC;Group 3 - High Testing Centers;MS;First wave;71424;2040,7
+PR;Paraná (PR)/IBMP HTC;Group 3 - High Testing Centers;MS;First wave;840192;24005,5
+RJ;Rio de Janeiro (RJ) HTC;Group 3 - High Testing Centers;MS;First wave;270240;7721,1
+SP;São Paulo (SP)/DASA HTC;Group 3 - High Testing Centers;MS;First wave;419936;11998,2
+GO;Laboratório Federal de Defesa Agropecuária de GO;Group 2 - Labs enabled during pandemic;Other public labs;First wave;3072;87,8
+MG;Laboratório Federal de Defesa Agropecuária de MG;Group 2 - Labs enabled during pandemic;Other public labs;First wave;3072;87,8
+MS;Laboratório Embrapa Gado de Corte - MS;Group 2 - Labs enabled during pandemic;Other public labs;First wave;3072;87,8
+PE;Laboratório Federal de Defesa Agropecuária de PE;Group 2 - Labs enabled during pandemic;Other public labs;First wave;3072;87,8
+RS;Laboratório Federal de Defesa Agropecuária de RS;Group 2 - Labs enabled during pandemic;Other public labs;First wave;3072;87,8
+SC;Laboratório Embrapa Suínos e Aves - SC;Group 2 - Labs enabled during pandemic;Other public labs;First wave;3072;87,8
+SP;Empresa Brasileira de Pesquisa Agropecuária São Carlos - Embrapa/SP;Group 2 - Labs enabled during pandemic;Other public labs;First wave;0;0
+SP;Laboratório Federal de Defesa Agropecuária de SP;Group 2 - Labs enabled during pandemic;Other public labs;First wave;3072;87,8
+AC;Secretaria Estadual de Saúde do Acre;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+AM;Fund. Hosp. de Hematologia e Hemoterapia do Amazonas;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+AP;Secretaria Municipal de Saúde de Macapá;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+DF;Hospital das Forças Armadas - DF ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;12112;346,1
+MA;Secretaria Estadual de Saúde do Maranhão;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+MA;Laboratório Municipal de São Luiz;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+MG;SES MG;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;500000;14285,7
+MG;Secretaria Municipal de Saúde de Engenho Navarro;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+MG;Secretaria Municipal de Saúde de Uberaba;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+MG;Secretaria Municipal de Saúde Eloi Mendes;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+MG;Secretaria Municipal de Saúde Mar da Espanha;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+MT;Associação de Proteção a Maternidade e a Infância de Cuiabá;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+MT;Hospital Geral de Poconé;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+PB;Secretaria Municipal de Saúde de João Pessoa;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+PB;Secretaria Municipal de Saúde de Santa Rita;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+PR;Laboratório Municipal de Foz do Iguaçu;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+PR;Laboratório Municipal de Cascavel;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+PR;Hospital Municipal Padre Germano;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+PR;Secretaria Municipal de Saúde de Florestópolis;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RJ;Instituto Biológico do Exército-IBEX;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;20160;576
+RJ;HEMORIO - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;5760;164,6
+RJ;Hospital de Força Aérea do Galeão;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RJ;INCA-RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;7128;203,7
+RJ;Hospital da Aeronáutica;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;10080;288
+RJ;Hospital da Marinha;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;10080;288
+RJ;Hospital Federal de Ipanema;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RJ;Instituto Nacional de Traumatologia e Ortopedia Jamil Haddad;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RJ;Instituto Nacional de Cardiologia - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;480;13,7
+RJ;Marinha do Brasil;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RJ;Hospital Geral de Bonsucesso;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RJ;Hospital Grafe Guinle - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;192;5,5
+RN;SMS NATAL;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RS;Secretaria Municipal de Saúde de Canoas;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RS;Secretaria Municipal de Saúde de Bagé;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RS;Secretaria Municipal de Saúde de São Gabriel;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+RS;Hospital de Clínicas de Porto Alegre - Lab Covid;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+SC;Secretaria Municipal de Saúde de Chapecó;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+SP;Secretaria Municipal de Saúde de Itapevi;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+SP;Secretaria Municipal de Saúde de Campo Limpo Paulista;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+SP;Secretaria Municipal de Saúde de Mogi das Cruzes;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+SP;Laboratório Multipropósito - BUTANTAN;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+SP;Secretaria Municipal de Saúde Águas de São Pedro;Group 1 - Public health labs prior to the pandemic;Public Health Lab;First wave;0;0
+AM;FIOCRUZ - AM;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;5088;145,4
+BA;FIOCRUZ - BA;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;5088;145,4
+MG;Instituto René Rachou- Fiocruz- MG;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;9888;282,5
+MS;FIOCRUZ - MS;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;2880;82,3
+PA;Instituto Evandro Chagas - PA;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;73732;2106,6
+PE;Centro de Pesquisa Aggeu Magalhães;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+PE;FIOCRUZ - PE;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+PR;Instituto Carlos Chagas;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+RJ;Central Analítica Covid-19 IOC - Fiocruz RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+RJ;Laboratório de Enterovírus - Fiocruz - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;56672;1619,2
+RJ;Laboratorio de Flavivirus da Fiocruz;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+RJ;Laboratório de Vírus Respiratórios e Sarampo Fiocruz/RJ ;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;25656;733
+RJ;Laboratório de Imunologia Viral - IOC/RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+RJ;Departamento de Virologia - IOC - FIOCRUZ - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;2880;82,3
+RJ;INCQS;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+RJ;FIOCRUZ - BIO-MANGUINHOS;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+RJ;Laboratório de Flavivirus Fiocruz - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;0;0
+SP;FIOCRUZ - RIBEIRÃO PRETO;Group 1 - Public health labs prior to the pandemic;Reference Lab;First wave;58752;1678,6
+AL;Universidade Federal de Alagoas;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+AM;Universidade Federal do Amazonas;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+AP;Universidade Federal do Amapá - Lab. de Microbiologia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+BA;Universidade Estadual de Santa Cruz (MCTI);Group 2 - Labs enabled during pandemic;University;First wave;0;0
+BA;Universidade Federal do Oeste da Bahia;Group 2 - Labs enabled during pandemic;University;First wave;2500;71,4
+BA;Universidade Federal do Recôncavo da Bahia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+BA;Universidade Federal da Bahia - Laboratório de Bacteriologia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+BA;Universidade Estadual de Feria de Santana;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+BA;Universidade Federal da Bahia - Hospital de Medicina Veterinária;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+BA;Laboratório de Biologia Molecular da Faculdade de Farmácia/UFBA;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+DF;Hospital Universitário de Brasília;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+DF;Universidade de Brasília - UNB;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+DF;Centro Universitário de Brasília - CEUB;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+DF;Laboratorio de Neuro Virologia Molecular - UNB;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+DF;Universidade de Brasília - Laboratório de Baculovírus;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+ES;Universidade Federal do Espírito Santo - Lab. De Imunobiologia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+GO;Instituto Acadêmico de Ciências da Saúde e Biológicas - UEG;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+GO;Universidade Federal do Goiás;Group 2 - Labs enabled during pandemic;University;First wave;19584;559,5
+MA;Universidade Federal do Maranhão;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Universidade Federal de Viçosa;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Instituto Federal do Norte de Minas Gerais;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Universidade Federal de Minas Gerais;Group 2 - Labs enabled during pandemic;University;First wave;2016;57,6
+MG;Laboratório Covid - UFLA;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Universidade Federal dos Vales do Jequinhonha e Mucuri;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Universidade Federal de Ouro Preto - Lab. de Imunopatologia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Universidade Federal de Lavras;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Universidade Federal do Triangulo Mineiro - Uberaba;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Universidade Federal de Alfenas - UNIFAL;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MG;Instituto de Ciências Biológicas - Departamento de Parasitologia e Microbiologia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MS;Universidade Federal do Mato Grosso do Sul;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MS;Laboratório de Pesquisa em Ciência da Saúde - UF Dourados;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MS;Universidade Federal da Grande Dourados;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MT;Universidade Federal do Mato Grosso;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MT;Instituto Federal de Educação Ciência e Tecnologia do Mato Grosso;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+MT;Laboratório de Virologia da Faculdade de Medicina UFMT;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PA;Univesidade Federal do Oeste do Pará;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PB;Universidade Federal da Paraíba;Group 2 - Labs enabled during pandemic;University;First wave;2000;57,1
+PB;Hospital Universitário Lauro Wanderley - UFPB;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PE;Universidade Federal de Pernambuco;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PE;Laboratorio de Imunopatologia Keizo Asami - UFPE;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PR;"Universidade Tecnólogica Federal do Paraná - Laboratorio de Biologia Molecular
+";Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PR;Universidade Federal da Fronteira do Sul;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PR;Universidade Federal do Paraná;Group 2 - Labs enabled during pandemic;University;First wave;1480;42,3
+PR;Universidade Federal de Ponta Grossa;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PR;Complexo Hospitalar de Clínicas da UFPR;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PR;Universidade Federal de Maringá;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PR;Universidade Fedral de Londrina;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+PR;"Universidade Tecnólogica Federal Paraná
+";Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RJ;Universidade Federal do Rio de Janeiro;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RJ;Universidade Federal Fluminense;Group 2 - Labs enabled during pandemic;University;First wave;4960;141,7
+RJ;Departamento de Análises Clínicas e Toxicológicas - Faculdade de Farmácia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RJ;Universidade Federal Rural do RJ;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RJ;Universidade Federal do Rio de Janeiro - NUPEM -MACAÉ;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RN;Maternidade Escola Januário Cicco/EBSERH _ UFRN;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RS;Universidade Federal do Rio Grande do Sul;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RS;Universidade Federal de Santa Maria;Group 2 - Labs enabled during pandemic;University;First wave;20180;576,6
+RS;Universidade Federal de Unipampa;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RS;Universidade Franciscana;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RS;Hospital Universitário Miguel Riet;Group 2 - Labs enabled during pandemic;University;First wave;960;27,4
+RS;"Universidade Federal de Pelotas - Uni. Diag. Molecular covid-19
+";Group 2 - Labs enabled during pandemic;University;First wave;0;0
+RS;Universidade Federal de Porto Alegre;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SC;Universidade Federal de Santa Catarina - Laboratório de Protozoologia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SC;Universidade do Estado de Santa Catarina - Centro de Ciências Agroveterinárias;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SE;Hospital Universitario da Univesidade Federal de Serigipe;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SE;Hospital Universitário de Lagarto - UFS;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Faculdade de Medicina de São José do Rio Preto - SP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Laboratório de Virologia - UNIFESP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Instituto de Medicina Tropical USP - SP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Hospital das Clínicas da Faculdade de Medicina de Botucatu-UNESP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Fundação Faculdade de Medicina - FUNFARME;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Faculdade de Zootecnia e Engenharia de Alimentos;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Universidade de São Paulo - USP;Group 2 - Labs enabled during pandemic;University;First wave;16032;458,1
+SP;Escola Superior de Agricultura Luiz de Queiroz - USP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;UNIFESP - SP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Universidade Estadual de Campinas - UNICAMP;Group 2 - Labs enabled during pandemic;University;First wave;8352;238,6
+SP;Faculdade de Medicina Veterinária e Zootecnia de SP - USP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Hospital Universitário da USP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Universidade Estadual Paulista Júlio de Mesquita Filho - SP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Universidade Federal do ABC;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Instituto de Química da USP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+SP;Instituto de Biociências USP;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+TO;Universidade Federal do Tocantins - Escola de Medicina Veterinária e Zootecnia;Group 2 - Labs enabled during pandemic;University;First wave;0;0
+DF;Ministério da Justiça Departamento Penitenciário Nacional;Group 1 - Public health labs prior to the pandemic;Collaborator;Second wave;1200;19,4
+DF;Polícia Federal do Distrito Federal - DF;Group 1 - Public health labs prior to the pandemic;Collaborator;Second wave;0;0
+DF;COADI/CGLOG/MS;Group 1 - Public health labs prior to the pandemic;Collaborator;Second wave;100;1,6
+CE;Sociedade Beneficente São Camilo;Group 2 - Labs enabled during pandemic;Contractor_lab;Second wave;100;1,6
+RS;Santa Casa de Misericórdia de Pelotas;Group 2 - Labs enabled during pandemic;Contractor_lab;Second wave;500;8,1
+RS;Hospital Beneficência Alto Jacuí;Group 2 - Labs enabled during pandemic;Contractor_lab;Second wave;200;3,2
+SC;Fundação Hospital São Lourenço;Group 2 - Labs enabled during pandemic;Contractor_lab;Second wave;200;3,2
+SP;Hospital de Amor de Barretos - SP;Group 2 - Labs enabled during pandemic;Contractor_lab;Second wave;40000;645,2
+SP;SEEGENE;Group 2 - Labs enabled during pandemic;Contractor_lab;Second wave;1500;24,2
+SP;Santa Casa de Misericórdia de Taguaí;Group 2 - Labs enabled during pandemic;Contractor_lab;Second wave;100;1,6
+AC;Laboratório Central de Saúde Pública do Acre;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;40000;645,2
+AL;Laboratório Central de Saúde Pública de Alagoas;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;151772;2447,9
+AM;Laboratório Central de Saúde Pública do Amazonas;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;284592;4590,2
+AP;Laboratório Central de Saúde Pública do Amapá;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;38452;620,2
+BA;Laboratório Central de Saúde Pública da Bahia;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;977528;15766,6
+CE;Laboratório Central de Saúde Pública do Ceará;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;497000;8016,1
+DF;Laboratório Central de Saúde Pública do Distrito Federal;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;343060;5533,2
+ES;Laboratório Central de Saúde Pública do Espírito Santo;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;45240;729,7
+GO;Laboratório Central de Saúde Pública de Goiás;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;92200;1487,1
+MA;Laboratório Central de Saúde Pública do Maranhão;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;79464;1281,7
+MG;Laboratório Fundação Ezequiel Dias;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;333944;5386,2
+MS;Laboratório Central de Saúde Pública do Mato Grosso do Sul;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;302968;4886,6
+MT;Laboratório Central de Saúde Pública do Mato Grosso;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;110400;1780,6
+PA;Laboratório Central de Saúde Pública do Pará;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;214768;3464
+PB;Laboratório Central de Saúde Pública da Paraíba;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;267424;4313,3
+PE;Laboratório Central de Saúde Pública de Pernambuco;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;151936;2450,6
+PI;Laboratório Central de Saúde Pública do Piauí;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;243000;3919,4
+PR;Laboratório Central de Saúde Pública do Paraná;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;214616;3461,5
+PR;Laboratório de Fronteira Foz do Iguaçu;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;400;6,5
+RJ;Laboratório Central de Saúde Pública Noel Nutels;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;400140;6453,9
+RN;Laboratório Central de Saúde Pública do Rio Grande do Norte;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;316752;5108,9
+RO;Laboratório Central de Saúde Pública de Rondônia;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;174200;2809,7
+RR;Laboratório Central de Saúde Pública de Roraima;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;77952;1257,3
+RS;Laboratório Central de Saúde Pública do Rio Grande do Sul;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;374700;6043,5
+SC;Laboratório Central de Saúde Pública de Santa Catarina;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;553900;8933,9
+SC;Laboratório de Saúde Pública de Joaçaba;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;91104;1469,4
+SC;Laboratorio Regional de Chapecó;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;400;6,5
+SE;Laboratório Central de Saúde Pública de Sergipe;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;598952;9660,5
+SP;Laboratório Central de Saúde Instituto Adolfo Lutz - SP;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;830300;13391,9
+SP;Serviço de Virologia - IAL;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;2000;32,3
+TO;Laboratório Central de Saúde Pública do Tocantins;Group 1 - Public health labs prior to the pandemic;Lacen;Second wave;260456;4200,9
+CE;Ceará (CE) HTC;Group 3 - High Testing Centers;MS;Second wave;1234868;19917,2
+PR;Paraná (PR)/IBMP HTC;Group 3 - High Testing Centers;MS;Second wave;2826704;45592
+RJ;Rio de Janeiro (RJ) HTC;Group 3 - High Testing Centers;MS;Second wave;2430496;39201,5
+SP;São Paulo (SP)/DASA HTC;Group 3 - High Testing Centers;MS;Second wave;1996840;32207,1
+GO;Laboratório Federal de Defesa Agropecuária de GO;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;0;0
+MG;Laboratório Federal de Defesa Agropecuária de MG;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;0;0
+MS;Laboratório Embrapa Gado de Corte - MS;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;0;0
+PE;Laboratório Federal de Defesa Agropecuária de PE;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;6000;96,8
+RS;Laboratório Federal de Defesa Agropecuária de RS;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;0;0
+SC;Laboratório Embrapa Suínos e Aves - SC;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;0;0
+SP;Empresa Brasileira de Pesquisa Agropecuária São Carlos - Embrapa/SP;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;20000;322,6
+SP;Laboratório Federal de Defesa Agropecuária de SP;Group 2 - Labs enabled during pandemic;Other public labs;Second wave;0;0
+AC;Secretaria Estadual de Saúde do Acre;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;50000;806,5
+AM;Fund. Hosp. de Hematologia e Hemoterapia do Amazonas;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;2000;32,3
+AP;Secretaria Municipal de Saúde de Macapá;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;250000;4032,3
+DF;Hospital das Forças Armadas - DF ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;8000;129
+MA;Secretaria Estadual de Saúde do Maranhão;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;10000;161,3
+MA;Laboratório Municipal de São Luiz;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;400;6,5
+MG;SES MG;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;0;0
+MG;Secretaria Municipal de Saúde de Engenho Navarro;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;50000;806,5
+MG;Secretaria Municipal de Saúde de Uberaba;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;30000;483,9
+MG;Secretaria Municipal de Saúde Eloi Mendes;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;5000;80,6
+MG;Secretaria Municipal de Saúde Mar da Espanha;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;5000;80,6
+MT;Associação de Proteção a Maternidade e a Infância de Cuiabá;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;500;8,1
+MT;Hospital Geral de Poconé;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;200;3,2
+PB;Secretaria Municipal de Saúde de João Pessoa;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;40000;645,2
+PB;Secretaria Municipal de Saúde de Santa Rita;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;40000;645,2
+PR;Laboratório Municipal de Foz do Iguaçu;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;40000;645,2
+PR;Laboratório Municipal de Cascavel;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;30000;483,9
+PR;Hospital Municipal Padre Germano;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;20000;322,6
+PR;Secretaria Municipal de Saúde de Florestópolis;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;3000;48,4
+RJ;Instituto Biológico do Exército-IBEX;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;44760;721,9
+RJ;HEMORIO - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;19692;317,6
+RJ;Hospital de Força Aérea do Galeão;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;3000;48,4
+RJ;INCA-RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;16992;274,1
+RJ;Hospital da Aeronáutica;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;0;0
+RJ;Hospital da Marinha;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;0;0
+RJ;Hospital Federal de Ipanema;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;5000;80,6
+RJ;Instituto Nacional de Traumatologia e Ortopedia Jamil Haddad;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;5000;80,6
+RJ;Instituto Nacional de Cardiologia - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;1600;25,8
+RJ;Marinha do Brasil;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;2000;32,3
+RJ;Hospital Geral de Bonsucesso;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;1960;31,6
+RJ;Hospital Grafe Guinle - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;0;0
+RN;SMS NATAL;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;40000;645,2
+RS;Secretaria Municipal de Saúde de Canoas;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;200000;3225,8
+RS;Secretaria Municipal de Saúde de Bagé;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;150000;2419,4
+RS;Secretaria Municipal de Saúde de São Gabriel;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;2000;32,3
+RS;Hospital de Clínicas de Porto Alegre - Lab Covid;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;100;1,6
+SC;Secretaria Municipal de Saúde de Chapecó;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;20000;322,6
+SP;Secretaria Municipal de Saúde de Itapevi;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;15072;243,1
+SP;Secretaria Municipal de Saúde de Campo Limpo Paulista;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;15000;241,9
+SP;Secretaria Municipal de Saúde de Mogi das Cruzes;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;5000;80,6
+SP;Laboratório Multipropósito - BUTANTAN;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;1500;24,2
+SP;Secretaria Municipal de Saúde Águas de São Pedro;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Second wave;100;1,6
+AM;FIOCRUZ - AM;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;15360;247,7
+BA;FIOCRUZ - BA;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;47320;763,2
+MG;Instituto René Rachou- Fiocruz- MG;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;1824;29,4
+MS;FIOCRUZ - MS;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;133632;2155,4
+PA;Instituto Evandro Chagas - PA;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;6160;99,4
+PE;Centro de Pesquisa Aggeu Magalhães;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;20384;328,8
+PE;FIOCRUZ - PE;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;864;13,9
+PR;Instituto Carlos Chagas;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;50000;806,5
+RJ;Central Analítica Covid-19 IOC - Fiocruz RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;124032;2000,5
+RJ;Laboratório de Enterovírus - Fiocruz - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;0;0
+RJ;Laboratorio de Flavivirus da Fiocruz;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;0;0
+RJ;Laboratório de Vírus Respiratórios e Sarampo Fiocruz/RJ ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;296;4,8
+RJ;Laboratório de Imunologia Viral - IOC/RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;3000;48,4
+RJ;Departamento de Virologia - IOC - FIOCRUZ - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;0;0
+RJ;INCQS;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;2788;45
+RJ;FIOCRUZ - BIO-MANGUINHOS;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;672;10,8
+RJ;Laboratório de Flavivirus Fiocruz - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;96;1,5
+SP;FIOCRUZ - RIBEIRÃO PRETO;Group 1 - Public health labs prior to the pandemic;Reference Lab;Second wave;104640;1687,7
+AL;Universidade Federal de Alagoas;Group 2 - Labs enabled during pandemic;University;Second wave;6400;103,2
+AM;Universidade Federal do Amazonas;Group 2 - Labs enabled during pandemic;University;Second wave;4516;72,8
+AP;Universidade Federal do Amapá - Lab. de Microbiologia;Group 2 - Labs enabled during pandemic;University;Second wave;4000;64,5
+BA;Universidade Estadual de Santa Cruz (MCTI);Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+BA;Universidade Federal do Oeste da Bahia;Group 2 - Labs enabled during pandemic;University;Second wave;14352;231,5
+BA;Universidade Federal do Recôncavo da Bahia;Group 2 - Labs enabled during pandemic;University;Second wave;3600;58,1
+BA;Universidade Federal da Bahia - Laboratório de Bacteriologia;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+BA;Universidade Estadual de Feria de Santana;Group 2 - Labs enabled during pandemic;University;Second wave;10000;161,3
+BA;Universidade Federal da Bahia - Hospital de Medicina Veterinária;Group 2 - Labs enabled during pandemic;University;Second wave;2000;32,3
+BA;Laboratório de Biologia Molecular da Faculdade de Farmácia/UFBA;Group 2 - Labs enabled during pandemic;University;Second wave;1000;16,1
+DF;Hospital Universitário de Brasília;Group 2 - Labs enabled during pandemic;University;Second wave;4072;65,7
+DF;Universidade de Brasília - UNB;Group 2 - Labs enabled during pandemic;University;Second wave;5880;94,8
+DF;Centro Universitário de Brasília - CEUB;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+DF;Laboratorio de Neuro Virologia Molecular - UNB;Group 2 - Labs enabled during pandemic;University;Second wave;10000;161,3
+DF;Universidade de Brasília - Laboratório de Baculovírus;Group 2 - Labs enabled during pandemic;University;Second wave;3000;48,4
+ES;Universidade Federal do Espírito Santo - Lab. De Imunobiologia;Group 2 - Labs enabled during pandemic;University;Second wave;400;6,5
+GO;Instituto Acadêmico de Ciências da Saúde e Biológicas - UEG;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+GO;Universidade Federal do Goiás;Group 2 - Labs enabled during pandemic;University;Second wave;3072;49,5
+MA;Universidade Federal do Maranhão;Group 2 - Labs enabled during pandemic;University;Second wave;5000;80,6
+MG;Universidade Federal de Viçosa;Group 2 - Labs enabled during pandemic;University;Second wave;2000;32,3
+MG;Instituto Federal do Norte de Minas Gerais;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+MG;Universidade Federal de Minas Gerais;Group 2 - Labs enabled during pandemic;University;Second wave;60160;970,3
+MG;Laboratório Covid - UFLA;Group 2 - Labs enabled during pandemic;University;Second wave;8000;129
+MG;Universidade Federal dos Vales do Jequinhonha e Mucuri;Group 2 - Labs enabled during pandemic;University;Second wave;8000;129
+MG;Universidade Federal de Ouro Preto - Lab. de Imunopatologia;Group 2 - Labs enabled during pandemic;University;Second wave;6000;96,8
+MG;Universidade Federal de Lavras;Group 2 - Labs enabled during pandemic;University;Second wave;3000;48,4
+MG;Universidade Federal do Triangulo Mineiro - Uberaba;Group 2 - Labs enabled during pandemic;University;Second wave;2000;32,3
+MG;Universidade Federal de Alfenas - UNIFAL;Group 2 - Labs enabled during pandemic;University;Second wave;1000;16,1
+MG;Instituto de Ciências Biológicas - Departamento de Parasitologia e Microbiologia;Group 2 - Labs enabled during pandemic;University;Second wave;40;0,6
+MS;Universidade Federal do Mato Grosso do Sul;Group 2 - Labs enabled during pandemic;University;Second wave;17000;274,2
+MS;Laboratório de Pesquisa em Ciência da Saúde - UF Dourados;Group 2 - Labs enabled during pandemic;University;Second wave;2100;33,9
+MS;Universidade Federal da Grande Dourados;Group 2 - Labs enabled during pandemic;University;Second wave;1000;16,1
+MT;Universidade Federal do Mato Grosso;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+MT;Instituto Federal de Educação Ciência e Tecnologia do Mato Grosso;Group 2 - Labs enabled during pandemic;University;Second wave;10000;161,3
+MT;Laboratório de Virologia da Faculdade de Medicina UFMT;Group 2 - Labs enabled during pandemic;University;Second wave;680;11
+PA;Univesidade Federal do Oeste do Pará;Group 2 - Labs enabled during pandemic;University;Second wave;14688;236,9
+PB;Universidade Federal da Paraíba;Group 2 - Labs enabled during pandemic;University;Second wave;6016;97
+PB;Hospital Universitário Lauro Wanderley - UFPB;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+PE;Universidade Federal de Pernambuco;Group 2 - Labs enabled during pandemic;University;Second wave;36672;591,5
+PE;Laboratorio de Imunopatologia Keizo Asami - UFPE;Group 2 - Labs enabled during pandemic;University;Second wave;30000;483,9
+PR;"Universidade Tecnólogica Federal do Paraná - Laboratorio de Biologia Molecular
+";Group 2 - Labs enabled during pandemic;University;Second wave;20000;322,6
+PR;Universidade Federal da Fronteira do Sul;Group 2 - Labs enabled during pandemic;University;Second wave;30500;491,9
+PR;Universidade Federal do Paraná;Group 2 - Labs enabled during pandemic;University;Second wave;27588;445
+PR;Universidade Federal de Ponta Grossa;Group 2 - Labs enabled during pandemic;University;Second wave;5000;80,6
+PR;Complexo Hospitalar de Clínicas da UFPR;Group 2 - Labs enabled during pandemic;University;Second wave;2000;32,3
+PR;Universidade Federal de Maringá;Group 2 - Labs enabled during pandemic;University;Second wave;400;6,5
+PR;Universidade Fedral de Londrina;Group 2 - Labs enabled during pandemic;University;Second wave;400;6,5
+PR;"Universidade Tecnólogica Federal Paraná
+";Group 2 - Labs enabled during pandemic;University;Second wave;4000;64,5
+RJ;Universidade Federal do Rio de Janeiro;Group 2 - Labs enabled during pandemic;University;Second wave;15072;243,1
+RJ;Universidade Federal Fluminense;Group 2 - Labs enabled during pandemic;University;Second wave;28300;456,5
+RJ;Departamento de Análises Clínicas e Toxicológicas - Faculdade de Farmácia;Group 2 - Labs enabled during pandemic;University;Second wave;2000;32,3
+RJ;Universidade Federal Rural do RJ;Group 2 - Labs enabled during pandemic;University;Second wave;1300;21
+RJ;Universidade Federal do Rio de Janeiro - NUPEM -MACAÉ;Group 2 - Labs enabled during pandemic;University;Second wave;20000;322,6
+RN;Maternidade Escola Januário Cicco/EBSERH _ UFRN;Group 2 - Labs enabled during pandemic;University;Second wave;3000;48,4
+RS;Universidade Federal do Rio Grande do Sul;Group 2 - Labs enabled during pandemic;University;Second wave;100030;1613,4
+RS;Universidade Federal de Santa Maria;Group 2 - Labs enabled during pandemic;University;Second wave;30988;499,8
+RS;Universidade Federal de Unipampa;Group 2 - Labs enabled during pandemic;University;Second wave;20000;322,6
+RS;Universidade Franciscana;Group 2 - Labs enabled during pandemic;University;Second wave;7000;112,9
+RS;Hospital Universitário Miguel Riet;Group 2 - Labs enabled during pandemic;University;Second wave;5000;80,6
+RS;"Universidade Federal de Pelotas - Uni. Diag. Molecular covid-19
+";Group 2 - Labs enabled during pandemic;University;Second wave;4000;64,5
+RS;Universidade Federal de Porto Alegre;Group 2 - Labs enabled during pandemic;University;Second wave;600;9,7
+SC;Universidade Federal de Santa Catarina - Laboratório de Protozoologia;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+SC;Universidade do Estado de Santa Catarina - Centro de Ciências Agroveterinárias;Group 2 - Labs enabled during pandemic;University;Second wave;30000;483,9
+SE;Hospital Universitario da Univesidade Federal de Serigipe;Group 2 - Labs enabled during pandemic;University;Second wave;2000;32,3
+SE;Hospital Universitário de Lagarto - UFS;Group 2 - Labs enabled during pandemic;University;Second wave;1000;16,1
+SP;Faculdade de Medicina de São José do Rio Preto - SP;Group 2 - Labs enabled during pandemic;University;Second wave;30500;491,9
+SP;Laboratório de Virologia - UNIFESP;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+SP;Instituto de Medicina Tropical USP - SP;Group 2 - Labs enabled during pandemic;University;Second wave;128582;2073,9
+SP;Hospital das Clínicas da Faculdade de Medicina de Botucatu-UNESP;Group 2 - Labs enabled during pandemic;University;Second wave;60000;967,7
+SP;Fundação Faculdade de Medicina - FUNFARME;Group 2 - Labs enabled during pandemic;University;Second wave;25100;404,8
+SP;Faculdade de Zootecnia e Engenharia de Alimentos;Group 2 - Labs enabled during pandemic;University;Second wave;24000;387,1
+SP;Universidade de São Paulo - USP;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+SP;Escola Superior de Agricultura Luiz de Queiroz - USP;Group 2 - Labs enabled during pandemic;University;Second wave;15000;241,9
+SP;UNIFESP - SP;Group 2 - Labs enabled during pandemic;University;Second wave;11700;188,7
+SP;Universidade Estadual de Campinas - UNICAMP;Group 2 - Labs enabled during pandemic;University;Second wave;0;0
+SP;Faculdade de Medicina Veterinária e Zootecnia de SP - USP;Group 2 - Labs enabled during pandemic;University;Second wave;8000;129
+SP;Hospital Universitário da USP;Group 2 - Labs enabled during pandemic;University;Second wave;5000;80,6
+SP;Universidade Estadual Paulista Júlio de Mesquita Filho - SP;Group 2 - Labs enabled during pandemic;University;Second wave;2000;32,3
+SP;Universidade Federal do ABC;Group 2 - Labs enabled during pandemic;University;Second wave;1500;24,2
+SP;Instituto de Química da USP;Group 2 - Labs enabled during pandemic;University;Second wave;1000;16,1
+SP;Instituto de Biociências USP;Group 2 - Labs enabled during pandemic;University;Second wave;200;3,2
+TO;Universidade Federal do Tocantins - Escola de Medicina Veterinária e Zootecnia;Group 2 - Labs enabled during pandemic;University;Second wave;9500;153,2
+DF;Ministério da Justiça Departamento Penitenciário Nacional;Group 1 - Public health labs prior to the pandemic;Collaborator;Third wave;0;0
+DF;Polícia Federal do Distrito Federal - DF;Group 1 - Public health labs prior to the pandemic;Collaborator;Third wave;0;0
+DF;COADI/CGLOG/MS;Group 1 - Public health labs prior to the pandemic;Collaborator;Third wave;0;0
+CE;Sociedade Beneficente São Camilo;Group 2 - Labs enabled during pandemic;Contractor_lab;Third wave;0;0
+RS;Santa Casa de Misericórdia de Pelotas;Group 2 - Labs enabled during pandemic;Contractor_lab;Third wave;0;0
+RS;Hospital Beneficência Alto Jacuí;Group 2 - Labs enabled during pandemic;Contractor_lab;Third wave;0;0
+SC;Fundação Hospital São Lourenço;Group 2 - Labs enabled during pandemic;Contractor_lab;Third wave;0;0
+SP;Hospital de Amor de Barretos - SP;Group 2 - Labs enabled during pandemic;Contractor_lab;Third wave;0;0
+SP;SEEGENE;Group 2 - Labs enabled during pandemic;Contractor_lab;Third wave;0;0
+SP;Santa Casa de Misericórdia de Taguaí;Group 2 - Labs enabled during pandemic;Contractor_lab;Third wave;0;0
+AC;Laboratório Central de Saúde Pública do Acre;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;14552;661,5
+AL;Laboratório Central de Saúde Pública de Alagoas;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;68880;3130,9
+AM;Laboratório Central de Saúde Pública do Amazonas;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;52300;2377,3
+AP;Laboratório Central de Saúde Pública do Amapá;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;12400;563,6
+BA;Laboratório Central de Saúde Pública da Bahia;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;293980;13362,7
+CE;Laboratório Central de Saúde Pública do Ceará;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;180088;8185,8
+DF;Laboratório Central de Saúde Pública do Distrito Federal;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;66040;3001,8
+ES;Laboratório Central de Saúde Pública do Espírito Santo;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;63360;2880
+GO;Laboratório Central de Saúde Pública de Goiás;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;31440;1429,1
+MA;Laboratório Central de Saúde Pública do Maranhão;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;24480;1112,7
+MG;Laboratório Fundação Ezequiel Dias;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;195404;8882
+MS;Laboratório Central de Saúde Pública do Mato Grosso do Sul;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;66020;3000,9
+MT;Laboratório Central de Saúde Pública do Mato Grosso;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;29136;1324,4
+PA;Laboratório Central de Saúde Pública do Pará;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;55872;2539,6
+PB;Laboratório Central de Saúde Pública da Paraíba;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;53380;2426,4
+PE;Laboratório Central de Saúde Pública de Pernambuco;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;74216;3373,5
+PI;Laboratório Central de Saúde Pública do Piauí;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;124280;5649,1
+PR;Laboratório Central de Saúde Pública do Paraná;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;12480;567,3
+PR;Laboratório de Fronteira Foz do Iguaçu;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;0;0
+RJ;Laboratório Central de Saúde Pública Noel Nutels;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;174120;7914,5
+RN;Laboratório Central de Saúde Pública do Rio Grande do Norte;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;22720;1032,7
+RO;Laboratório Central de Saúde Pública de Rondônia;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;46280;2103,6
+RR;Laboratório Central de Saúde Pública de Roraima;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;9240;420
+RS;Laboratório Central de Saúde Pública do Rio Grande do Sul;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;23520;1069,1
+SC;Laboratório Central de Saúde Pública de Santa Catarina;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;176300;8013,6
+SC;Laboratório de Saúde Pública de Joaçaba;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;11520;523,6
+SC;Laboratorio Regional de Chapecó;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;0;0
+SE;Laboratório Central de Saúde Pública de Sergipe;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;51540;2342,7
+SP;Laboratório Central de Saúde Instituto Adolfo Lutz - SP;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;738372;33562,4
+SP;Serviço de Virologia - IAL;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;0;0
+TO;Laboratório Central de Saúde Pública do Tocantins;Group 1 - Public health labs prior to the pandemic;Lacen;Third wave;99608;4527,6
+CE;Ceará (CE) HTC;Group 3 - High Testing Centers;MS;Third wave;253920;11541,8
+PR;Paraná (PR)/IBMP HTC;Group 3 - High Testing Centers;MS;Third wave;615360;27970,9
+RJ;Rio de Janeiro (RJ) HTC;Group 3 - High Testing Centers;MS;Third wave;244800;11127,3
+SP;São Paulo (SP)/DASA HTC;Group 3 - High Testing Centers;MS;Third wave;0;0
+GO;Laboratório Federal de Defesa Agropecuária de GO;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+MG;Laboratório Federal de Defesa Agropecuária de MG;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+MS;Laboratório Embrapa Gado de Corte - MS;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+PE;Laboratório Federal de Defesa Agropecuária de PE;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+RS;Laboratório Federal de Defesa Agropecuária de RS;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+SC;Laboratório Embrapa Suínos e Aves - SC;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+SP;Empresa Brasileira de Pesquisa Agropecuária São Carlos - Embrapa/SP;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+SP;Laboratório Federal de Defesa Agropecuária de SP;Group 2 - Labs enabled during pandemic;Other public labs;Third wave;0;0
+AC;Secretaria Estadual de Saúde do Acre;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+AM;Fund. Hosp. de Hematologia e Hemoterapia do Amazonas;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;2016;91,6
+AP;Secretaria Municipal de Saúde de Macapá;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+DF;Hospital das Forças Armadas - DF ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MA;Secretaria Estadual de Saúde do Maranhão;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MA;Laboratório Municipal de São Luiz;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MG;SES MG;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MG;Secretaria Municipal de Saúde de Engenho Navarro;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MG;Secretaria Municipal de Saúde de Uberaba;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MG;Secretaria Municipal de Saúde Eloi Mendes;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MG;Secretaria Municipal de Saúde Mar da Espanha;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MT;Associação de Proteção a Maternidade e a Infância de Cuiabá;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+MT;Hospital Geral de Poconé;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+PB;Secretaria Municipal de Saúde de João Pessoa;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+PB;Secretaria Municipal de Saúde de Santa Rita;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+PR;Laboratório Municipal de Foz do Iguaçu;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+PR;Laboratório Municipal de Cascavel;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+PR;Hospital Municipal Padre Germano;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+PR;Secretaria Municipal de Saúde de Florestópolis;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Instituto Biológico do Exército-IBEX;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;14976;680,7
+RJ;HEMORIO - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;7680;349,1
+RJ;Hospital de Força Aérea do Galeão;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;1440;65,5
+RJ;INCA-RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Hospital da Aeronáutica;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Hospital da Marinha;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Hospital Federal de Ipanema;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Instituto Nacional de Traumatologia e Ortopedia Jamil Haddad;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Instituto Nacional de Cardiologia - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Marinha do Brasil;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Hospital Geral de Bonsucesso;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RJ;Hospital Grafe Guinle - RJ;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RN;SMS NATAL;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RS;Secretaria Municipal de Saúde de Canoas;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RS;Secretaria Municipal de Saúde de Bagé;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RS;Secretaria Municipal de Saúde de São Gabriel;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+RS;Hospital de Clínicas de Porto Alegre - Lab Covid;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+SC;Secretaria Municipal de Saúde de Chapecó;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+SP;Secretaria Municipal de Saúde de Itapevi;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+SP;Secretaria Municipal de Saúde de Campo Limpo Paulista;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+SP;Secretaria Municipal de Saúde de Mogi das Cruzes;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+SP;Laboratório Multipropósito - BUTANTAN;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+SP;Secretaria Municipal de Saúde Águas de São Pedro;Group 1 - Public health labs prior to the pandemic;Public Health Lab;Third wave;0;0
+AM;FIOCRUZ - AM;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;5760;261,8
+BA;FIOCRUZ - BA;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+MG;Instituto René Rachou- Fiocruz- MG;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;384;17,5
+MS;FIOCRUZ - MS;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+PA;Instituto Evandro Chagas - PA;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;5880;267,3
+PE;Centro de Pesquisa Aggeu Magalhães;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+PE;FIOCRUZ - PE;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+PR;Instituto Carlos Chagas;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+RJ;Central Analítica Covid-19 IOC - Fiocruz RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;14592;663,3
+RJ;Laboratório de Enterovírus - Fiocruz - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;480;21,8
+RJ;Laboratorio de Flavivirus da Fiocruz;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;96;4,4
+RJ;Laboratório de Vírus Respiratórios e Sarampo Fiocruz/RJ ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+RJ;Laboratório de Imunologia Viral - IOC/RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+RJ;Departamento de Virologia - IOC - FIOCRUZ - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+RJ;INCQS;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+RJ;FIOCRUZ - BIO-MANGUINHOS;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+RJ;Laboratório de Flavivirus Fiocruz - RJ;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+SP;FIOCRUZ - RIBEIRÃO PRETO;Group 1 - Public health labs prior to the pandemic;Reference Lab;Third wave;0;0
+AL;Universidade Federal de Alagoas;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+AM;Universidade Federal do Amazonas;Group 2 - Labs enabled during pandemic;University;Third wave;-2016;-91,6
+AP;Universidade Federal do Amapá - Lab. de Microbiologia;Group 2 - Labs enabled during pandemic;University;Third wave;2880;130,9
+BA;Universidade Estadual de Santa Cruz (MCTI);Group 2 - Labs enabled during pandemic;University;Third wave;2016;91,6
+BA;Universidade Federal do Oeste da Bahia;Group 2 - Labs enabled during pandemic;University;Third wave;1920;87,3
+BA;Universidade Federal do Recôncavo da Bahia;Group 2 - Labs enabled during pandemic;University;Third wave;1056;48
+BA;Universidade Federal da Bahia - Laboratório de Bacteriologia;Group 2 - Labs enabled during pandemic;University;Third wave;192;8,7
+BA;Universidade Estadual de Feria de Santana;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+BA;Universidade Federal da Bahia - Hospital de Medicina Veterinária;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+BA;Laboratório de Biologia Molecular da Faculdade de Farmácia/UFBA;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+DF;Hospital Universitário de Brasília;Group 2 - Labs enabled during pandemic;University;Third wave;2688;122,2
+DF;Universidade de Brasília - UNB;Group 2 - Labs enabled during pandemic;University;Third wave;1440;65,5
+DF;Centro Universitário de Brasília - CEUB;Group 2 - Labs enabled during pandemic;University;Third wave;576;26,2
+DF;Laboratorio de Neuro Virologia Molecular - UNB;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+DF;Universidade de Brasília - Laboratório de Baculovírus;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+ES;Universidade Federal do Espírito Santo - Lab. De Imunobiologia;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+GO;Instituto Acadêmico de Ciências da Saúde e Biológicas - UEG;Group 2 - Labs enabled during pandemic;University;Third wave;288000;13090,9
+GO;Universidade Federal do Goiás;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MA;Universidade Federal do Maranhão;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MG;Universidade Federal de Viçosa;Group 2 - Labs enabled during pandemic;University;Third wave;96000;4363,6
+MG;Instituto Federal do Norte de Minas Gerais;Group 2 - Labs enabled during pandemic;University;Third wave;960;43,6
+MG;Universidade Federal de Minas Gerais;Group 2 - Labs enabled during pandemic;University;Third wave;480;21,8
+MG;Laboratório Covid - UFLA;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MG;Universidade Federal dos Vales do Jequinhonha e Mucuri;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MG;Universidade Federal de Ouro Preto - Lab. de Imunopatologia;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MG;Universidade Federal de Lavras;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MG;Universidade Federal do Triangulo Mineiro - Uberaba;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MG;Universidade Federal de Alfenas - UNIFAL;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MG;Instituto de Ciências Biológicas - Departamento de Parasitologia e Microbiologia;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MS;Universidade Federal do Mato Grosso do Sul;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MS;Laboratório de Pesquisa em Ciência da Saúde - UF Dourados;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MS;Universidade Federal da Grande Dourados;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MT;Universidade Federal do Mato Grosso;Group 2 - Labs enabled during pandemic;University;Third wave;1920;87,3
+MT;Instituto Federal de Educação Ciência e Tecnologia do Mato Grosso;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+MT;Laboratório de Virologia da Faculdade de Medicina UFMT;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PA;Univesidade Federal do Oeste do Pará;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PB;Universidade Federal da Paraíba;Group 2 - Labs enabled during pandemic;University;Third wave;960;43,6
+PB;Hospital Universitário Lauro Wanderley - UFPB;Group 2 - Labs enabled during pandemic;University;Third wave;960;43,6
+PE;Universidade Federal de Pernambuco;Group 2 - Labs enabled during pandemic;University;Third wave;2880;130,9
+PE;Laboratorio de Imunopatologia Keizo Asami - UFPE;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PR;"Universidade Tecnólogica Federal do Paraná - Laboratorio de Biologia Molecular
+";Group 2 - Labs enabled during pandemic;University;Third wave;4000;181,8
+PR;Universidade Federal da Fronteira do Sul;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PR;Universidade Federal do Paraná;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PR;Universidade Federal de Ponta Grossa;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PR;Complexo Hospitalar de Clínicas da UFPR;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PR;Universidade Federal de Maringá;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PR;Universidade Fedral de Londrina;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+PR;"Universidade Tecnólogica Federal Paraná
+";Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RJ;Universidade Federal do Rio de Janeiro;Group 2 - Labs enabled during pandemic;University;Third wave;20288;922,2
+RJ;Universidade Federal Fluminense;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RJ;Departamento de Análises Clínicas e Toxicológicas - Faculdade de Farmácia;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RJ;Universidade Federal Rural do RJ;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RJ;Universidade Federal do Rio de Janeiro - NUPEM -MACAÉ;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RN;Maternidade Escola Januário Cicco/EBSERH _ UFRN;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RS;Universidade Federal do Rio Grande do Sul;Group 2 - Labs enabled during pandemic;University;Third wave;19200;872,7
+RS;Universidade Federal de Santa Maria;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RS;Universidade Federal de Unipampa;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RS;Universidade Franciscana;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RS;Hospital Universitário Miguel Riet;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RS;"Universidade Federal de Pelotas - Uni. Diag. Molecular covid-19
+";Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+RS;Universidade Federal de Porto Alegre;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SC;Universidade Federal de Santa Catarina - Laboratório de Protozoologia;Group 2 - Labs enabled during pandemic;University;Third wave;9600;436,4
+SC;Universidade do Estado de Santa Catarina - Centro de Ciências Agroveterinárias;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SE;Hospital Universitario da Univesidade Federal de Serigipe;Group 2 - Labs enabled during pandemic;University;Third wave;6144;279,3
+SE;Hospital Universitário de Lagarto - UFS;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Faculdade de Medicina de São José do Rio Preto - SP;Group 2 - Labs enabled during pandemic;University;Third wave;20160;916,4
+SP;Laboratório de Virologia - UNIFESP;Group 2 - Labs enabled during pandemic;University;Third wave;5760;261,8
+SP;Instituto de Medicina Tropical USP - SP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Hospital das Clínicas da Faculdade de Medicina de Botucatu-UNESP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Fundação Faculdade de Medicina - FUNFARME;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Faculdade de Zootecnia e Engenharia de Alimentos;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Universidade de São Paulo - USP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Escola Superior de Agricultura Luiz de Queiroz - USP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;UNIFESP - SP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Universidade Estadual de Campinas - UNICAMP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Faculdade de Medicina Veterinária e Zootecnia de SP - USP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Hospital Universitário da USP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Universidade Estadual Paulista Júlio de Mesquita Filho - SP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Universidade Federal do ABC;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Instituto de Química da USP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+SP;Instituto de Biociências USP;Group 2 - Labs enabled during pandemic;University;Third wave;0;0
+TO;Universidade Federal do Tocantins - Escola de Medicina Veterinária e Zootecnia;Group 2 - Labs enabled during pandemic;University;Third wave;0;0

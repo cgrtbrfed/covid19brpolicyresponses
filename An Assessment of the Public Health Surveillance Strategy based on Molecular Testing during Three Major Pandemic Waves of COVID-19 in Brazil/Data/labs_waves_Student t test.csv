@@ -1,0 +1,199 @@
+﻿UF;Lab;group;Lab.category;First wave_n_tests;First wave_average;Second wave_n_tests;Second wave_average;Third wave_n_tests;Third wave_average;overall_n;overall_average
+AC;Laboratório Central de Saúde Pública do Acre;Public health labs prior to the pandemic;Lacen;69724;1992,1;40000;645,2;14552;661,5;124276;1044,3
+AC;Secretaria Estadual de Saúde do Acre;Public health labs prior to the pandemic;Public Health Lab;0;0;50000;806,5;0;0;50000;420,2
+AL;Laboratório Central de Saúde Pública de Alagoas;Public health labs prior to the pandemic;Lacen;89284;2551;151772;2447,9;68880;3130,9;309936;2604,5
+AL;Universidade Federal de Alagoas;Labs enabled during pandemic;University;0;0;6400;103,2;0;0;6400;53,8
+AM;FIOCRUZ - AM;Public health labs prior to the pandemic;Reference Lab;5088;145,4;15360;247,7;5760;261,8;26208;220,2
+AM;Fund. Hosp. de Hematologia e Hemoterapia do Amazonas;Public health labs prior to the pandemic;Public Health Lab;0;0;2000;32,3;2016;91,6;4016;33,7
+AM;Laboratório Central de Saúde Pública do Amazonas;Public health labs prior to the pandemic;Lacen;125808;3594,5;284592;4590,2;52300;2377,3;462700;3888,2
+AM;Universidade Federal do Amazonas;Labs enabled during pandemic;University;0;0;4516;72,8;-2016;-91,6;2500;21
+AP;Laboratório Central de Saúde Pública do Amapá;Public health labs prior to the pandemic;Lacen;75516;2157,6;38452;620,2;12400;563,6;126368;1061,9
+AP;Secretaria Municipal de Saúde de Macapá;Public health labs prior to the pandemic;Public Health Lab;0;0;250000;4032,3;0;0;250000;2100,8
+AP;Universidade Federal do Amapá - Lab. de Microbiologia;Labs enabled during pandemic;University;0;0;4000;64,5;2880;130,9;6880;57,8
+BA;FIOCRUZ - BA;Public health labs prior to the pandemic;Reference Lab;5088;145,4;47320;763,2;0;0;52408;440,4
+BA;Laboratório Central de Saúde Pública da Bahia;Public health labs prior to the pandemic;Lacen;544224;15549,3;977528;15766,6;293980;13362,7;1815732;15258,3
+BA;Laboratório de Biologia Molecular da Faculdade de Farmácia/UFBA;Labs enabled during pandemic;University;0;0;1000;16,1;0;0;1000;8,4
+BA;Universidade Estadual de Feria de Santana;Labs enabled during pandemic;University;0;0;10000;161,3;0;0;10000;84
+BA;Universidade Estadual de Santa Cruz (MCTI);Labs enabled during pandemic;University;0;0;0;0;2016;91,6;2016;16,9
+BA;Universidade Federal da Bahia - Hospital de Medicina Veterinária;Labs enabled during pandemic;University;0;0;2000;32,3;0;0;2000;16,8
+BA;Universidade Federal da Bahia - Laboratório de Bacteriologia;Labs enabled during pandemic;University;0;0;0;0;192;8,7;192;1,6
+BA;Universidade Federal do Oeste da Bahia;Labs enabled during pandemic;University;2500;71,4;14352;231,5;1920;87,3;18772;157,7
+BA;Universidade Federal do Recôncavo da Bahia;Labs enabled during pandemic;University;0;0;3600;58,1;1056;48;4656;39,1
+CE;Laboratório Central de Saúde Pública do Ceará;Public health labs prior to the pandemic;Lacen;178392;5096,9;497000;8016,1;180088;8185,8;855480;7188,9
+CE;Sociedade Beneficente São Camilo;Labs enabled during pandemic;Contractor_lab;0;0;100;1,6;0;0;100;0,8
+CE;Unidade Central Analítica FIOCRUZ - CE e Fiocruz CE;High Testing Centers;MS;71424,0;2040,7;1234868,0;19917,2;253920,0;11541,8;1560212,0;13111,0
+DF;Centro Universitário de Brasília - CEUB;Labs enabled during pandemic;University;0;0;0;0;576;26,2;576;4,8
+DF;COADI/CGLOG/MS;Public health labs prior to the pandemic;Collaborator;0;0;100;1,6;0;0;100;0,8
+DF;Hospital das Forças Armadas - DF ;Public health labs prior to the pandemic;Public Health Lab;12112;346,1;8000;129;0;0;20112;169
+DF;Hospital Universitário de Brasília;Labs enabled during pandemic;University;0;0;4072;65,7;2688;122,2;6760;56,8
+DF;Laboratório Central de Saúde Pública do Distrito Federal;Public health labs prior to the pandemic;Lacen;149968;4284,8;343060;5533,2;66040;3001,8;559068;4698,1
+DF;Laboratorio de Neuro Virologia Molecular - UNB;Labs enabled during pandemic;University;0;0;10000;161,3;0;0;10000;84
+DF;Ministério da Justiça Departamento Penitenciário Nacional;Public health labs prior to the pandemic;Collaborator;0;0;1200;19,4;0;0;1200;10,1
+DF;Polícia Federal do Distrito Federal - DF;Public health labs prior to the pandemic;Collaborator;500;14,3;0;0;0;0;500;4,2
+DF;Universidade de Brasília - Laboratório de Baculovírus;Labs enabled during pandemic;University;0;0;3000;48,4;0;0;3000;25,2
+DF;Universidade de Brasília - UNB;Labs enabled during pandemic;University;0;0;5880;94,8;1440;65,5;7320;61,5
+ES;Laboratório Central de Saúde Pública do Espírito Santo;Public health labs prior to the pandemic;Lacen;149128;4260,8;45240;729,7;63360;2880;257728;2165,8
+ES;Universidade Federal do Espírito Santo - Lab. De Imunobiologia;Labs enabled during pandemic;University;0;0;400;6,5;0;0;400;3,4
+GO;Instituto Acadêmico de Ciências da Saúde e Biológicas - UEG;Labs enabled during pandemic;University;0;0;0;0;288000;13090,9;288000;2420,2
+GO;Laboratório Central de Saúde Pública de Goiás;Public health labs prior to the pandemic;Lacen;133616;3817,6;92200;1487,1;31440;1429,1;257256;2161,8
+GO;Laboratório Federal de Defesa Agropecuária de GO;Labs enabled during pandemic;Other public labs;3072;87,8;0;0;0;0;3072;25,8
+GO;Universidade Federal do Goiás;Labs enabled during pandemic;University;19584;559,5;3072;49,5;0;0;22656;190,4
+MA;Laboratório Central de Saúde Pública do Maranhão;Public health labs prior to the pandemic;Lacen;215412;6154,6;79464;1281,7;24480;1112,7;319356;2683,7
+MA;Laboratório Municipal de São Luiz;Public health labs prior to the pandemic;Public Health Lab;0;0;400;6,5;0;0;400;3,4
+MA;Secretaria Estadual de Saúde do Maranhão;Public health labs prior to the pandemic;Public Health Lab;0;0;10000;161,3;0;0;10000;84
+MA;Universidade Federal do Maranhão;Labs enabled during pandemic;University;0;0;5000;80,6;0;0;5000;42
+MG;Instituto de Ciências Biológicas - Departamento de Parasitologia e Microbiologia;Labs enabled during pandemic;University;0;0;40;0,6;0;0;40;0,3
+MG;Instituto Federal do Norte de Minas Gerais;Labs enabled during pandemic;University;0;0;0;0;960;43,6;960;8,1
+MG;Instituto René Rachou- Fiocruz- MG;Public health labs prior to the pandemic;Reference Lab;9888;282,5;1824;29,4;384;17,5;12096;101,6
+MG;Laboratório Covid - UFLA;Labs enabled during pandemic;University;0;0;8000;129;0;0;8000;67,2
+MG;Laboratório Federal de Defesa Agropecuária de MG;Labs enabled during pandemic;Other public labs;3072;87,8;0;0;0;0;3072;25,8
+MG;Laboratório Fundação Ezequiel Dias;Public health labs prior to the pandemic;Lacen;162280;4636,6;333944;5386,2;195404;8882;691628;5812
+MG;Secretaria Municipal de Saúde de Engenho Navarro;Public health labs prior to the pandemic;Public Health Lab;0;0;50000;806,5;0;0;50000;420,2
+MG;Secretaria Municipal de Saúde de Uberaba;Public health labs prior to the pandemic;Public Health Lab;0;0;30000;483,9;0;0;30000;252,1
+MG;Secretaria Municipal de Saúde Eloi Mendes;Public health labs prior to the pandemic;Public Health Lab;0;0;5000;80,6;0;0;5000;42
+MG;Secretaria Municipal de Saúde Mar da Espanha;Public health labs prior to the pandemic;Public Health Lab;0;0;5000;80,6;0;0;5000;42
+MG;SES MG;Public health labs prior to the pandemic;Public Health Lab;500000;14285,7;0;0;0;0;500000;4201,7
+MG;Universidade Federal de Alfenas - UNIFAL;Labs enabled during pandemic;University;0;0;1000;16,1;0;0;1000;8,4
+MG;Universidade Federal de Lavras;Labs enabled during pandemic;University;0;0;3000;48,4;0;0;3000;25,2
+MG;Universidade Federal de Minas Gerais;Labs enabled during pandemic;University;2016;57,6;60160;970,3;480;21,8;62656;526,5
+MG;Universidade Federal de Ouro Preto - Lab. de Imunopatologia;Labs enabled during pandemic;University;0;0;6000;96,8;0;0;6000;50,4
+MG;Universidade Federal de Viçosa;Labs enabled during pandemic;University;0;0;2000;32,3;96000;4363,6;98000;823,5
+MG;Universidade Federal do Triangulo Mineiro - Uberaba;Labs enabled during pandemic;University;0;0;2000;32,3;0;0;2000;16,8
+MG;Universidade Federal dos Vales do Jequinhonha e Mucuri;Labs enabled during pandemic;University;0;0;8000;129;0;0;8000;67,2
+MS;FIOCRUZ - MS;Public health labs prior to the pandemic;Reference Lab;2880;82,3;133632;2155,4;0;0;136512;1147,2
+MS;Laboratório Central de Saúde Pública do Mato Grosso do Sul;Public health labs prior to the pandemic;Lacen;190992;5456,9;302968;4886,6;66020;3000,9;559980;4705,7
+MS;Laboratório de Pesquisa em Ciência da Saúde - UF Dourados;Labs enabled during pandemic;University;0;0;2100;33,9;0;0;2100;17,6
+MS;Laboratório Embrapa Gado de Corte - MS;Labs enabled during pandemic;Other public labs;3072;87,8;0;0;0;0;3072;25,8
+MS;Universidade Federal da Grande Dourados;Labs enabled during pandemic;University;0;0;1000;16,1;0;0;1000;8,4
+MS;Universidade Federal do Mato Grosso do Sul;Labs enabled during pandemic;University;0;0;17000;274,2;0;0;17000;142,9
+MT;Associação de Proteção a Maternidade e a Infância de Cuiabá;Public health labs prior to the pandemic;Public Health Lab;0;0;500;8,1;0;0;500;4,2
+MT;Hospital Geral de Poconé;Public health labs prior to the pandemic;Public Health Lab;0;0;200;3,2;0;0;200;1,7
+MT;Instituto Federal de Educação Ciência e Tecnologia do Mato Grosso;Labs enabled during pandemic;University;0;0;10000;161,3;0;0;10000;84
+MT;Laboratório Central de Saúde Pública do Mato Grosso;Public health labs prior to the pandemic;Lacen;203608;5817,4;110400;1780,6;29136;1324,4;343144;2883,6
+MT;Laboratório de Virologia da Faculdade de Medicina UFMT;Labs enabled during pandemic;University;0;0;680;11;0;0;680;5,7
+MT;Universidade Federal do Mato Grosso;Labs enabled during pandemic;University;0;0;0;0;1920;87,3;1920;16,1
+PA;Instituto Evandro Chagas - PA;Public health labs prior to the pandemic;Reference Lab;73732;2106,6;6160;99,4;5880;267,3;85772;720,8
+PA;Laboratório Central de Saúde Pública do Pará;Public health labs prior to the pandemic;Lacen;115944;3312,7;214768;3464;55872;2539,6;386584;3248,6
+PA;Univesidade Federal do Oeste do Pará;Labs enabled during pandemic;University;0;0;14688;236,9;0;0;14688;123,4
+PB;Hospital Universitário Lauro Wanderley - UFPB;Labs enabled during pandemic;University;0;0;0;0;960;43,6;960;8,1
+PB;Laboratório Central de Saúde Pública da Paraíba;Public health labs prior to the pandemic;Lacen;103548;2958,5;267424;4313,3;53380;2426,4;424352;3566
+PB;Secretaria Municipal de Saúde de João Pessoa;Public health labs prior to the pandemic;Public Health Lab;0;0;40000;645,2;0;0;40000;336,1
+PB;Secretaria Municipal de Saúde de Santa Rita;Public health labs prior to the pandemic;Public Health Lab;0;0;40000;645,2;0;0;40000;336,1
+PB;Universidade Federal da Paraíba;Labs enabled during pandemic;University;2000;57,1;6016;97;960;43,6;8976;75,4
+PE;Centro de Pesquisa Aggeu Magalhães;Public health labs prior to the pandemic;Reference Lab;0;0;20384;328,8;0;0;20384;171,3
+PE;FIOCRUZ - PE;Public health labs prior to the pandemic;Reference Lab;0;0;864;13,9;0;0;864;7,3
+PE;Laboratório Central de Saúde Pública de Pernambuco;Public health labs prior to the pandemic;Lacen;245480;7013,7;151936;2450,6;74216;3373,5;471632;3963,3
+PE;Laboratorio de Imunopatologia Keizo Asami - UFPE;Labs enabled during pandemic;University;0;0;30000;483,9;0;0;30000;252,1
+PE;Laboratório Federal de Defesa Agropecuária de PE;Labs enabled during pandemic;Other public labs;3072;87,8;6000;96,8;0;0;9072;76,2
+PE;Universidade Federal de Pernambuco;Labs enabled during pandemic;University;0;0;36672;591,5;2880;130,9;39552;332,4
+PI;Laboratório Central de Saúde Pública do Piauí;Public health labs prior to the pandemic;Lacen;114492;3271,2;243000;3919,4;124280;5649,1;481772;4048,5
+PR;Central de Processamento - IBMP - PR;High Testing Centers;MS;840192;24005,5;2826704;45592;615360;27970,9;4282256;35985,3
+PR;Complexo Hospitalar de Clínicas da UFPR;Labs enabled during pandemic;University;0;0;2000;32,3;0;0;2000;16,8
+PR;Hospital Municipal Padre Germano;Public health labs prior to the pandemic;Public Health Lab;0;0;20000;322,6;0;0;20000;168,1
+PR;Instituto Carlos Chagas;Public health labs prior to the pandemic;Reference Lab;0;0;50000;806,5;0;0;50000;420,2
+PR;Laboratório Central de Saúde Pública do Paraná;Public health labs prior to the pandemic;Lacen;127352;3638,6;214616;3461,5;12480;567,3;354448;2978,6
+PR;Laboratório de Fronteira Foz do Iguaçu;Public health labs prior to the pandemic;Lacen;0;0;400;6,5;0;0;400;3,4
+PR;Laboratório Municipal de Cascavel;Public health labs prior to the pandemic;Public Health Lab;0;0;30000;483,9;0;0;30000;252,1
+PR;Laboratório Municipal de Foz do Iguaçu;Public health labs prior to the pandemic;Public Health Lab;0;0;40000;645,2;0;0;40000;336,1
+PR;Secretaria Municipal de Saúde de Florestópolis;Public health labs prior to the pandemic;Public Health Lab;0;0;3000;48,4;0;0;3000;25,2
+PR;Universidade Federal da Fronteira do Sul;Labs enabled during pandemic;University;0;0;30500;491,9;0;0;30500;256,3
+PR;Universidade Federal de Maringá;Labs enabled during pandemic;University;0;0;400;6,5;0;0;400;3,4
+PR;Universidade Federal de Ponta Grossa;Labs enabled during pandemic;University;0;0;5000;80,6;0;0;5000;42
+PR;Universidade Federal do Paraná;Labs enabled during pandemic;University;1480;42,3;27588;445;0;0;29068;244,3
+PR;Universidade Fedral de Londrina;Labs enabled during pandemic;University;0;0;400;6,5;0;0;400;3,4
+PR;"Universidade Tecnólogica Federal do Paraná - Laboratorio de Biologia Molecular
+";Labs enabled during pandemic;University;0;0;20000;322,6;4000;181,8;24000;201,7
+PR;"Universidade Tecnólogica Federal Paraná
+";Labs enabled during pandemic;University;0;0;4000;64,5;0;0;4000;33,6
+RJ;Central Analítica Covid-19 IOC - Fiocruz RJ;Public health labs prior to the pandemic;Reference Lab;0;0;124032;2000,5;14592;663,3;138624;1164,9
+RJ;Departamento de Análises Clínicas e Toxicológicas - Faculdade de Farmácia;Labs enabled during pandemic;University;0;0;2000;32,3;0;0;2000;16,8
+RJ;Departamento de Virologia - IOC - FIOCRUZ - RJ;Public health labs prior to the pandemic;Reference Lab;2880;82,3;0;0;0;0;2880;24,2
+RJ;FIOCRUZ - BIO-MANGUINHOS;Public health labs prior to the pandemic;Reference Lab;0;0;672;10,8;0;0;672;5,6
+RJ;HEMORIO - RJ;Public health labs prior to the pandemic;Public Health Lab;5760;164,6;19692;317,6;7680;349,1;33132;278,4
+RJ;Hospital da Aeronáutica;Public health labs prior to the pandemic;Public Health Lab;10080;288;0;0;0;0;10080;84,7
+RJ;Hospital da Marinha;Public health labs prior to the pandemic;Public Health Lab;10080;288;0;0;0;0;10080;84,7
+RJ;Hospital de Força Aérea do Galeão;Public health labs prior to the pandemic;Public Health Lab;0;0;3000;48,4;1440;65,5;4440;37,3
+RJ;Hospital Federal de Ipanema;Public health labs prior to the pandemic;Public Health Lab;0;0;5000;80,6;0;0;5000;42
+RJ;Hospital Geral de Bonsucesso;Public health labs prior to the pandemic;Public Health Lab;0;0;1960;31,6;0;0;1960;16,5
+RJ;Hospital Grafe Guinle - RJ;Public health labs prior to the pandemic;Public Health Lab;192;5,5;0;0;0;0;192;1,6
+RJ;INCA-RJ;Public health labs prior to the pandemic;Public Health Lab;7128;203,7;16992;274,1;0;0;24120;202,7
+RJ;INCQS;Public health labs prior to the pandemic;Reference Lab;0;0;2788;45;0;0;2788;23,4
+RJ;Instituto Biológico do Exército-IBEX;Public health labs prior to the pandemic;Public Health Lab;20160;576;44760;721,9;14976;680,7;79896;671,4
+RJ;Instituto Nacional de Cardiologia - RJ;Public health labs prior to the pandemic;Public Health Lab;480;13,7;1600;25,8;0;0;2080;17,5
+RJ;Instituto Nacional de Traumatologia e Ortopedia Jamil Haddad;Public health labs prior to the pandemic;Public Health Lab;0;0;5000;80,6;0;0;5000;42
+RJ;Laboratório Central de Saúde Pública Noel Nutels;Public health labs prior to the pandemic;Lacen;466376;13325;400140;6453,9;174120;7914,5;1040636;8744,8
+RJ;Laboratório de Enterovírus - Fiocruz - RJ;Public health labs prior to the pandemic;Reference Lab;56672;1619,2;0;0;480;21,8;57152;480,3
+RJ;Laboratorio de Flavivirus da Fiocruz;Public health labs prior to the pandemic;Reference Lab;0;0;0;0;96;4,4;96;0,8
+RJ;Laboratório de Flavivirus Fiocruz - RJ;Public health labs prior to the pandemic;Reference Lab;0;0;96;1,5;0;0;96;0,8
+RJ;Laboratório de Imunologia Viral - IOC/RJ;Public health labs prior to the pandemic;Reference Lab;0;0;3000;48,4;0;0;3000;25,2
+RJ;Laboratório de Vírus Respiratórios e Sarampo Fiocruz/RJ ;Public health labs prior to the pandemic;Reference Lab;25656;733;296;4,8;0;0;25952;218,1
+RJ;Marinha do Brasil;Public health labs prior to the pandemic;Public Health Lab;0;0;2000;32,3;0;0;2000;16,8
+RJ;Unidade de Apoio Diagnóstico ao Covid - Central II - RJ;High Testing Centers;MS;270240;7721,1;2430496;39201,5;244800;11127,3;2945536;24752,4
+RJ;Universidade Federal do Rio de Janeiro;Labs enabled during pandemic;University;0;0;15072;243,1;20288;922,2;35360;297,1
+RJ;Universidade Federal do Rio de Janeiro - NUPEM -MACAÉ;Labs enabled during pandemic;University;0;0;20000;322,6;0;0;20000;168,1
+RJ;Universidade Federal Fluminense;Labs enabled during pandemic;University;4960;141,7;28300;456,5;0;0;33260;279,5
+RJ;Universidade Federal Rural do RJ;Labs enabled during pandemic;University;0;0;1300;21;0;0;1300;10,9
+RN;Laboratório Central de Saúde Pública do Rio Grande do Norte;Public health labs prior to the pandemic;Lacen;133888;3825,4;316752;5108,9;22720;1032,7;473360;3977,8
+RN;Maternidade Escola Januário Cicco/EBSERH _ UFRN;Labs enabled during pandemic;University;0;0;3000;48,4;0;0;3000;25,2
+RN;SMS NATAL;Public health labs prior to the pandemic;Public Health Lab;0;0;40000;645,2;0;0;40000;336,1
+RO;Laboratório Central de Saúde Pública de Rondônia;Public health labs prior to the pandemic;Lacen;118696;3391,3;174200;2809,7;46280;2103,6;339176;2850,2
+RR;Laboratório Central de Saúde Pública de Roraima;Public health labs prior to the pandemic;Lacen;82264;2350,4;77952;1257,3;9240;420;169456;1424
+RS;Hospital Beneficência Alto Jacuí;Labs enabled during pandemic;Contractor_lab;0;0;200;3,2;0;0;200;1,7
+RS;Hospital de Clínicas de Porto Alegre - Lab Covid;Public health labs prior to the pandemic;Public Health Lab;0;0;100;1,6;0;0;100;0,8
+RS;Hospital Universitário Miguel Riet;Labs enabled during pandemic;University;960;27,4;5000;80,6;0;0;5960;50,1
+RS;Laboratório Central de Saúde Pública do Rio Grande do Sul;Public health labs prior to the pandemic;Lacen;179072;5116,3;374700;6043,5;23520;1069,1;577292;4851,2
+RS;Laboratório Federal de Defesa Agropecuária de RS;Labs enabled during pandemic;Other public labs;3072;87,8;0;0;0;0;3072;25,8
+RS;Santa Casa de Misericórdia de Pelotas;Labs enabled during pandemic;Contractor_lab;0;0;500;8,1;0;0;500;4,2
+RS;Secretaria Municipal de Saúde de Bagé;Public health labs prior to the pandemic;Public Health Lab;0;0;150000;2419,4;0;0;150000;1260,5
+RS;Secretaria Municipal de Saúde de Canoas;Public health labs prior to the pandemic;Public Health Lab;0;0;200000;3225,8;0;0;200000;1680,7
+RS;Secretaria Municipal de Saúde de São Gabriel;Public health labs prior to the pandemic;Public Health Lab;0;0;2000;32,3;0;0;2000;16,8
+RS;"Universidade Federal de Pelotas - Uni. Diag. Molecular covid-19
+";Labs enabled during pandemic;University;0;0;4000;64,5;0;0;4000;33,6
+RS;Universidade Federal de Porto Alegre;Labs enabled during pandemic;University;0;0;600;9,7;0;0;600;5
+RS;Universidade Federal de Santa Maria;Labs enabled during pandemic;University;20180;576,6;30988;499,8;0;0;51168;430
+RS;Universidade Federal de Unipampa;Labs enabled during pandemic;University;0;0;20000;322,6;0;0;20000;168,1
+RS;Universidade Federal do Rio Grande do Sul;Labs enabled during pandemic;University;0;0;100030;1613,4;19200;872,7;119230;1001,9
+RS;Universidade Franciscana;Labs enabled during pandemic;University;0;0;7000;112,9;0;0;7000;58,8
+SC;Fundação Hospital São Lourenço;Labs enabled during pandemic;Contractor_lab;0;0;200;3,2;0;0;200;1,7
+SC;Laboratório Central de Saúde Pública de Santa Catarina;Public health labs prior to the pandemic;Lacen;204048;5829,9;553900;8933,9;176300;8013,6;934248;7850,8
+SC;Laboratório de Saúde Pública de Joaçaba;Public health labs prior to the pandemic;Lacen;0;0;91104;1469,4;11520;523,6;102624;862,4
+SC;Laboratório Embrapa Suínos e Aves - SC;Labs enabled during pandemic;Other public labs;3072;87,8;0;0;0;0;3072;25,8
+SC;Laboratorio Regional de Chapecó;Public health labs prior to the pandemic;Lacen;0;0;400;6,5;0;0;400;3,4
+SC;Secretaria Municipal de Saúde de Chapecó;Public health labs prior to the pandemic;Public Health Lab;0;0;20000;322,6;0;0;20000;168,1
+SC;Universidade do Estado de Santa Catarina - Centro de Ciências Agroveterinárias;Labs enabled during pandemic;University;0;0;30000;483,9;0;0;30000;252,1
+SC;Universidade Federal de Santa Catarina - Laboratório de Protozoologia;Labs enabled during pandemic;University;0;0;0;0;9600;436,4;9600;80,7
+SE;Hospital Universitario da Univesidade Federal de Serigipe;Labs enabled during pandemic;University;0;0;2000;32,3;6144;279,3;8144;68,4
+SE;Hospital Universitário de Lagarto - UFS;Labs enabled during pandemic;University;0;0;1000;16,1;0;0;1000;8,4
+SE;Laboratório Central de Saúde Pública de Sergipe;Public health labs prior to the pandemic;Lacen;149728;4277,9;598952;9660,5;51540;2342,7;800220;6724,5
+SP;DASA;High Testing Centers;MS;419936;11998,2;1996840;32207,1;0;0;2416776;20309
+SP;Empresa Brasileira de Pesquisa Agropecuária São Carlos - Embrapa/SP;Labs enabled during pandemic;Other public labs;0;0;20000;322,6;0;0;20000;168,1
+SP;Escola Superior de Agricultura Luiz de Queiroz - USP;Labs enabled during pandemic;University;0;0;15000;241,9;0;0;15000;126,1
+SP;Faculdade de Medicina de São José do Rio Preto - SP;Labs enabled during pandemic;University;0;0;30500;491,9;20160;916,4;50660;425,7
+SP;Faculdade de Medicina Veterinária e Zootecnia de SP - USP;Labs enabled during pandemic;University;0;0;8000;129;0;0;8000;67,2
+SP;Faculdade de Zootecnia e Engenharia de Alimentos;Labs enabled during pandemic;University;0;0;24000;387,1;0;0;24000;201,7
+SP;FIOCRUZ - RIBEIRÃO PRETO;Public health labs prior to the pandemic;Reference Lab;58752;1678,6;104640;1687,7;0;0;163392;1373
+SP;Fundação Faculdade de Medicina - FUNFARME;Labs enabled during pandemic;University;0;0;25100;404,8;0;0;25100;210,9
+SP;Hospital das Clínicas da Faculdade de Medicina de Botucatu-UNESP;Labs enabled during pandemic;University;0;0;60000;967,7;0;0;60000;504,2
+SP;Hospital de Amor de Barretos - SP;Labs enabled during pandemic;Contractor_lab;0;0;40000;645,2;0;0;40000;336,1
+SP;Hospital Universitário da USP;Labs enabled during pandemic;University;0;0;5000;80,6;0;0;5000;42
+SP;Instituto de Biociências USP;Labs enabled during pandemic;University;0;0;200;3,2;0;0;200;1,7
+SP;Instituto de Medicina Tropical USP - SP;Labs enabled during pandemic;University;0;0;128582;2073,9;0;0;128582;1080,5
+SP;Instituto de Química da USP;Labs enabled during pandemic;University;0;0;1000;16,1;0;0;1000;8,4
+SP;Laboratório Central de Saúde Instituto Adolfo Lutz - SP;Public health labs prior to the pandemic;Lacen;674652;19275,8;830300;13391,9;738372;33562,4;2243324;18851,5
+SP;Laboratório de Virologia - UNIFESP;Labs enabled during pandemic;University;0;0;0;0;5760;261,8;5760;48,4
+SP;Laboratório Federal de Defesa Agropecuária de SP;Labs enabled during pandemic;Other public labs;3072;87,8;0;0;0;0;3072;25,8
+SP;Laboratório Multipropósito - BUTANTAN;Public health labs prior to the pandemic;Public Health Lab;0;0;1500;24,2;0;0;1500;12,6
+SP;Santa Casa de Misericórdia de Taguaí;Labs enabled during pandemic;Contractor_lab;0;0;100;1,6;0;0;100;0,8
+SP;Secretaria Municipal de Saúde Águas de São Pedro;Public health labs prior to the pandemic;Public Health Lab;0;0;100;1,6;0;0;100;0,8
+SP;Secretaria Municipal de Saúde de Campo Limpo Paulista;Public health labs prior to the pandemic;Public Health Lab;0;0;15000;241,9;0;0;15000;126,1
+SP;Secretaria Municipal de Saúde de Itapevi;Public health labs prior to the pandemic;Public Health Lab;0;0;15072;243,1;0;0;15072;126,7
+SP;Secretaria Municipal de Saúde de Mogi das Cruzes;Public health labs prior to the pandemic;Public Health Lab;0;0;5000;80,6;0;0;5000;42
+SP;SEEGENE;Labs enabled during pandemic;Contractor_lab;0;0;1500;24,2;0;0;1500;12,6
+SP;Serviço de Virologia - IAL;Public health labs prior to the pandemic;Lacen;0;0;2000;32,3;0;0;2000;16,8
+SP;UNIFESP - SP;Labs enabled during pandemic;University;0;0;11700;188,7;0;0;11700;98,3
+SP;Universidade de São Paulo - USP;Labs enabled during pandemic;University;16032;458,1;0;0;0;0;16032;134,7
+SP;Universidade Estadual de Campinas - UNICAMP;Labs enabled during pandemic;University;8352;238,6;0;0;0;0;8352;70,2
+SP;Universidade Estadual Paulista Júlio de Mesquita Filho - SP;Labs enabled during pandemic;University;0;0;2000;32,3;0;0;2000;16,8
+SP;Universidade Federal do ABC;Labs enabled during pandemic;University;0;0;1500;24,2;0;0;1500;12,6
+TO;Laboratório Central de Saúde Pública do Tocantins;Public health labs prior to the pandemic;Lacen;118196;3377;260456;4200,9;99608;4527,6;478260;4019
+TO;Universidade Federal do Tocantins - Escola de Medicina Veterinária e Zootecnia;Labs enabled during pandemic;University;0;0;9500;153,2;0;0;9500;79,8
