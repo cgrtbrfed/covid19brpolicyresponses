@@ -6,7 +6,7 @@
 
 * Barberia Lorena G., Claro Oliveira Maria Leticia, Junqueira Andrea,Paula Moreira Natália de, and Whitten Guy D. 2021. Should I stay or should I go? Embracingcausal heterogeneity in the study of pandemic policy and citizen behavior. Social Science Quarterly1–15. https://doi.org/10.1111/ssqu.13037
 
-*Barberia, Lorena G., Natália de P. Moreira, Brigina Kemp, Maria Amelia de Sousa Mascena Veras, Marcela Zamudio, Isabel Seelaender Costa Rosa, Rebeca de J. Carvalho, and Tatiane C. M. Sousa. 2022. "Evaluation of the Effectiveness of Surveillance Policies to Control the COVID-19 Pandemic in São Paulo, Brazil." Global Health Research and Policy 7 (27): 1-16. 
+* Barberia, Lorena G., Natália de P. Moreira, Brigina Kemp, Maria Amelia de Sousa Mascena Veras, Marcela Zamudio, Isabel Seelaender Costa Rosa, Rebeca de J. Carvalho, and Tatiane C. M. Sousa. 2022. "Evaluation of the Effectiveness of Surveillance Policies to Control the COVID-19 Pandemic in São Paulo, Brazil." Global Health Research and Policy 7 (27): 1-16. 
 
 * Barberia, Lorena G, Alexandra Boing, João Gusmão, Fábio Miyajima, Adriano Abbud,  Brigina Kemp, Marcela Zamudio, and Tatiane C. M. Sousa. "An Assessment of the Public Health Surveillance Strategy based on Molecular Testing during Three Major Pandemic Waves of COVID-19 in Brazil." PLOS Global Public Health  3(8): e0002164.
 
